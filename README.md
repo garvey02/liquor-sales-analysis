@@ -34,3 +34,7 @@ This project analyzes public data on liquor sales in Iowa using **Google BigQuer
 
 ### Top Stores by Total Liquor Sales
 ![Top Stores](Top%20Stores%20by%20Total%20Liquor%20Sales.png)
+
+## Conclusion
+
+This project demonstrates how SQL and Excel can uncover trends in large datasets. Key findings include seasonality in liquor sales, dominant brands, and high-performing retail locations.
